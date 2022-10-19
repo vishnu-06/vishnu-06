@@ -1,5 +1,5 @@
 ## My Introduction
-- 👋 Hi, I’m @Vishnu-06 (prev joffy) aka Vishnu Shetty B
+- 👋 Hi, I’m @Vishnu-06 (formerly @joffy) aka Vishnu Shetty B
 - 👀 I’m interested in Computer Vision and Neural Networks and I aspire to become a Computer Vision Engineer
 - 🌱 I’m currently studying Computer Science and Engineering at VIT, Vellore (4th yr)
 - 💞️ I’m looking to collaborate on Projects related to Computer Vision and Neural Networks.
